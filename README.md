@@ -9,7 +9,7 @@ I love flashing different distros and operating systems on my Android and my PC.
 
 I am intrigued by Javascript frameworks and love to use them to build stuff. Also, I am trying to explore a variety of tech to find out what's my favourite.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeqib23&hide=jupyternotebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeqib23&hide=jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 How to reach me: [Twitter](https://twitter.com/geeqib23)
 
