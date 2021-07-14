@@ -9,8 +9,9 @@ I love flashing different distros and operating systems on my Android and my PC.
 
 I am intrigued by Javascript frameworks and love to use them to build stuff. Also, I am trying to explore a variety of tech to find out what's my favourite.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geeqib23&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeqib23&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats" align="right">
+![](https://visitor-badge.glitch.me/badge?page_id=addu390.addu390)
 
 📫 How to reach me: [Twitter](https://twitter.com/geeqib23)
 
-*My Portofolio* : https://www.aqibs.me
+*My Portofolio website* ( where i post my blogs and update my projects) : https://www.aqibs.me
