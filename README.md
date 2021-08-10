@@ -14,5 +14,3 @@ I am intrigued by Javascript frameworks and love to use them to build stuff on t
 📫 How to reach me: [Twitter](https://twitter.com/geeqib23)
 
 *My Portofolio website* ( where i post my blogs and showcase my projects ) : https://www.aqibs.me
-
-![](https://komarev.com/ghpvc/?username=geeqib23)
