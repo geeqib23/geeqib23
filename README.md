@@ -12,7 +12,7 @@ I am intrigued by Javascript frameworks and love to use them to build stuff on t
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeqib23&hide=jupyter%20notebook&layout=compact" align="right">
 
 
-📫 How to reach me: [Twitter](https://twitter.com/geeqib23) or [Email](mailto:aqibsuhail23@gmail.com)
+📫 How to reach me: [Twitter](https://twitter.com/geeqib23) or Mail : `aqibsuhail23@gmail.com`
 
 
 *My Portofolio website* ( where i post my blogs and showcase my projects ) : https://www.aqibs.me
