@@ -13,4 +13,4 @@ I am intrigued by Javascript frameworks and love to use them to build stuff on t
 📫 How to reach me: [Twitter](https://twitter.com/geeqib23) or `aqibsuhail23@gmail.com`
 
 
-*My Portofolio website* ( where i post my blogs and showcase my projects ) : https://www.aqibs.me
+*My Portofolio website* ( where i post my blogs and showcase my projects ) : https://aqibs.vercel.app
