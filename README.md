@@ -10,7 +10,4 @@ I am intrigued by Javascript frameworks and love to use them to build stuff on t
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeqib23&hide=jupyter%20notebook,html,purebasic,objective-c&layout=compact" align="right">
 
 
-📫 How to reach me: [Twitter](https://twitter.com/geeqib23) or `aqibsuhail23@gmail.com`
-
-
-*My Portofolio website* ( where i post my blogs and showcase my projects ) : https://aqibs.vercel.app
+📫 How to reach me: [Twitter](https://twitter.com/aqibs_) or `aqibsuhail23@gmail.com`
